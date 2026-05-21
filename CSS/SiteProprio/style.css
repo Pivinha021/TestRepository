@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(28, 11, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+
+header{
+    display: flex;
+    background-image: url(./assets/img/navBar.png);
+    background-size: 30%;
+    background-repeat:repeat-x;
+    background-position: center;
+    height: 60px;
+    align-items: center;
+}
+
+.nav-img{
+    width: 8%;
+    height: 90%;
+}
+
+.home-img{
+    width: 45%;
+    height: 90%;
+    float: right;
+}
+
+.home-titulo{
+    
+}
+
+.home-texto{
+    
+}
+
+.container{
+    display: flex;
+    overflow: hidden
+}
