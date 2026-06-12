@@ -96,5 +96,3 @@ card1.classList.add('card');
 card2.classList.add('card');
 card3.classList.add('card');
 card4.classList.add('card');
-
-
