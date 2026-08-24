@@ -5,7 +5,7 @@ const client = new Client({
     host:     'localhost',  // onde o banco está rodando
     port:     5432,         // porta padrão do PostgreSQL
     user:     'postgres',   // usuário do banco
-    password: 'postgres',  // a mesma senha que você usa no pgAdmin
+    password: 'root',  // a mesma senha que você usa no pgAdmin
     database: 'escola_db' // o banco que criamos agora pouco
 });
 
